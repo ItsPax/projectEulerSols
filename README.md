@@ -1,0 +1,1 @@
+This repository holds a sampling of my Project Euler problem solutions. I kept my solutions to the first 20 or so problems haphazardly, and thus could not locate them. From now on I am keeping them organized in this repository for future reference.
